@@ -1,0 +1,26 @@
+{
+  "name": "quotes",
+  "version": "1.0.0",
+  "description": "Quote site",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keldri/quotes-wordpress.git"
+  },
+  "keywords": [
+    "Quotes"
+  ],
+  "author": "Kate Eldirdge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keldri/quotes-wordpress/issues"
+  },
+  "homepage": "https://github.com/keldri/quotes-wordpress#readme"
+}
